@@ -5,3 +5,5 @@
   - ## [JPA Entity](2_Entity/README.md)
 
   - ## [JPA Mappinh](3_Mapping/README.md)
+
+  - ## [JPA Cascade type]
