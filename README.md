@@ -6,4 +6,4 @@
 
   - ## [JPA Mappinh](3_Mapping/README.md)
 
-  - ## [JPA Cascade type]
+  - ## [JPA Cascade type](4_Cascade/README.md)
