@@ -4,4 +4,4 @@
 
   - ## [JPA Entity](2_Entity/README.md)
 
-  - ## [JPA Mappin](3_Mapping/REAME.md)
+  - ## [JPA Mappinh](3_Mapping/README.md)
